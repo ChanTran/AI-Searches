@@ -21,7 +21,5 @@ Drivers for the various searches are in the files ending with the name "driver"
 
 # Best First Search
 
-# Example Use
-
 ![example](https://i.imgur.com/TQTQFe3.png)
 
